@@ -1,0 +1,1 @@
+This repository demonstrates a common Lua error related to nil values passed to a function. The original code throws an error when a nil value is passed. The solution shows improved error handling using pcall for better control flow.
